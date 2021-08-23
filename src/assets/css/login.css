@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#content-area {
+    margin-top: 150px;
+    width: 400px;
+}
+
+#logo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+#logo > img {
+    border-radius: 10px;
+}
+
+@media (max-width: 410px) {
+    #content-area {
+        width: 90%;
+    }
+}
