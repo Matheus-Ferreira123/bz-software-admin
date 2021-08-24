@@ -163,7 +163,8 @@
     
 </template>
 
-<style src="@/assets/css/home.css">
+<style scoped>
+    @import "../assets/css/home.css";
 </style>
 <style src="@/assets/css/normalize.css">
 </style>
