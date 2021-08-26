@@ -1,9 +1,9 @@
 body {
     width: 100% !important;
 }
+
 .content-area {
-    width: 100% !important;
-    margin-top: 100px;
+    /* max-width: 100% !important; */
 }
 
 .lixo {
@@ -17,4 +17,9 @@ body {
 #menu-header {
     width: 100% !important;
     height: 100px;
+}
+
+#cards-content-area {
+    max-width: 1000px;
+    display: flex;
 }

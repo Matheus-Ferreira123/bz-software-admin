@@ -7,6 +7,36 @@
             <button type="button" class="btn btn-danger">Sair</button>
         </div>
     </nav>
+    <div id="cards-content-area" class="content-area p-3 row">
+        <div class="card text-white bg-primary mb-2 col-lg-3 col-md-3 col-sm-12">
+            <div class="card-header text-center">Usuários cadastrados</div>
+                <div class="card-body">
+                <h5 class="card-title text-center">999</h5>
+                <p class="card-text"></p>
+            </div>
+        </div>
+        <div class="card text-white bg-primary mb-2 col-lg-3 col-md-3 col-sm-12">
+            <div class="card-header text-center">Distância</div>
+                <div class="card-body">
+                <h5 class="card-title text-center">999</h5>
+                <p class="card-text"></p>
+            </div>
+        </div>
+        <div class="card text-white bg-primary mb-2 col-lg-3 col-md-3 col-sm-12">
+            <div class="card-header text-center">Dados</div>
+                <div class="card-body">
+                <h5 class="card-title text-center">999</h5>
+                <p class="card-text"></p>
+            </div>
+        </div>
+        <div class="card text-white bg-primary mb-2 col-lg-3 col-md-3 col-sm-12">
+            <div class="card-header text-center">Usuários</div>
+                <div class="card-body">
+                <h5 class="card-title text-center">999</h5>
+                <p class="card-text"></p>
+            </div>
+        </div>
+    </div>
     <div class="content-area">
         <div id="table-title" class="d-flex justify-content-between align-items-center p-3">
             <div class="text-white fs-4">Gerenciamento de empresas</div>
@@ -76,8 +106,7 @@
     </div>
 </template>
 
-<style scoped>
-    @import "../assets/css/admin.css";
+<style src="@/assets/css/admin.css">
 </style>
 <style src="@/assets/css/normalize.css">
 </style>

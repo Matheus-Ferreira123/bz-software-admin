@@ -22,7 +22,7 @@
 </div>
 </template>
 
-<style src="@/assets/css/login.css">
+<style scoped src="@/assets/css/login.css">
 </style>
 <style src="@/assets/css/normalize.css">
 </style>
