@@ -44,7 +44,9 @@
 </div>
 </template>
 
-<style src="@/assets/css/cadastro.css">
+
+<style scoped>
+    @import "../assets/css/cadastro.css";
 </style>
 <style src="@/assets/css/normalize.css">
 </style>

@@ -2,7 +2,8 @@
     <h1>Página não encontrada.</h1>
 </template>
 
-<style src="@/assets/css/not-found.css">
+<style scoped>
+    @import "../assets/css/not-found.css";
 </style>
 <style src="@/assets/css/normalize.css">
 </style>

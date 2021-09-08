@@ -13,5 +13,9 @@ a,a:link,a:visited,a:hover,a:focus,a:active{
 }
 
 :root {
-    --primary-color: #fa9f47;
-  }
+    --primary-color: #fa9f47; 
+}
+
+#app {
+    width: 100%;
+}
